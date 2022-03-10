@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">حيف-Haif</string>
+
+    <!-- Connection -->
+    <string name="connect_internet">Please Check Your Internet Connection </string>
+    <string name="connect_internet_slow">There is Problem With The Internt Connection </string>
+    <string name="try_agin">Try Again</string>
+    <string name="loading">Loading</string>
+    <string name="wait">Please Wait ....</string>
+    <string name="ok"> OK</string>
+    <string name="error">Error</string>
+    <string name="servererror">Somthing went wrong please try again later</string>
+
+    <!--[1] LOGIN ACTIVITY-->
+    <string name="login">Login</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="phone_empty">Enter Phone Number</string>
+    <string name="password_empty">Enter Password</string>
+    <string name="password_check">Please Enter Password Minimum In 8 Char !</string>
+    <string name="phone_valid">Please Enter Valid Phone Number !</string>
+    <string name="password_forget">Forget The Password ?</string>
+
+    <!--[2] MAIN ACTIVITY-->
+    <string name="search">Enter Name , Weight , Caliber</string>
+    <string name="main">Home</string>
+    <string name="empty">There is no Data</string>
+    <string name="numofgoldbar">Num of Gold bars :</string>
+
+
+    <!--[3] EDIT PROFILE ACTIVITY-->
+    <string name="action_bar_edit_profile">Edit Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_edit_profile">Phone Number</string>
+    <string name="shop">Shop</string>
+    <string name="full_name_empty">Enter Full Name</string>
+    <string name="phone_edit_profile_empty">Enter Phone Number</string>
+    <string name="shop_edit_profile_empty">Enter Shop</string>
+    <string name="check_fullname_length">You Can not Enter More than 40 Characters !</string>
+    <string name="phone_edit_profile_valid">Please Enter Valid Phone Number !</string>
+    <string name="edit_profile_successfully">Edited Successful !</string>
+    <string name="edit_profile_btn">Edit</string>
+    <string name="edit_password">Edit Password</string>
+
+    <!--[4] CHECK OLD PASSWORD EDIT PROFILE ACTIVITY-->
+    <string name="action_bar_checkoldpassword_edit_profile">Edit Password</string>
+    <string name="oldpassword_edit_profile">Old Password </string>
+    <string name="oldpassword_edit_profile_empty">Enter Old Password </string>
+    <string name="oldpassword_edit_profile_wrong">The Old Password Is Wrong !</string>
+
+    <!--[5] EDIT PASSWORD EDIT PROFILE ACTIVITY-->
+    <string name="newpassword">New Password</string>
+    <string name="newpasswordconfirm">New Confirm Password</string>
+    <string name="newpassword_edit_profile_empty">Enter New Password</string>
+    <string name="password_confirm_edit_profile_empty">Enter Password Confirm</string>
+    <string name="newpassword_edit_profile_valid">Please Enter Password Minimum In 8 Char !</string>
+    <string name="password_similarity_edit_profile">Please Verity The Password Is Similar !</string>
+
+    <!--[6] Menu-->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="lang">Language</string>
+    <string name="warehouse">Warehouses</string>
+    <string name="warehouserecyclebin">Warehouse Recycle Bin</string>
+    <string name="share">Share</string>
+    <string name="about">App About</string>
+    <string name="logout">Logout</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--[7] ADD GOLDBAR ACTIITY   +  [6] WEIGHT EDIT ACTIVITY   -->
+    <string name="actionbar_goldbar_add">Gold bar Add</string>
+    <string name="actionbar_wiegth_edit">Gold bar Edit</string>
+    <string name="owner_name">Gold Bar Owner</string>
+    <string name="gold_ingot_weigth">Gold Ingot Weight</string>
+    <string name="sample_weight">Sample Weight</string>
+    <string name="caliber">Caliber</string>
+    <string name="optional">*Optional</string>
+    <string name="price_gram">Price Gram</string>
+    <string name="gold_bar_owner_empty">Enter Name of gold Bar Owner</string>
+    <string name="gold_ingot_weight_empty">Enter Gold Ingot Weight</string>
+    <string name="gold_sample_weight_empty">Enter Sample Weight</string>
+    <string name="caliber_empty">Enter Caliber</string>
+    <string name="price_gram_empty">Enter Price Gram</string>
+    <string name="check_owner_name_length">Please Enter Full Name(20 char-40char) !</string>
+    <string name="wiegth_edit_btn">Edit</string>
+    <string name="goldbar_add_btn">Add</string>
+    <string name="goldbar_add_successfully">Added Successfully !</string>
+    <string name="wiegth_edited_successfully">Edited Successfully !</string>
+
+    <!--[8]GOLDBARD DETAILS SHOW + [8] Custom Details Show-->
+    <string name="details">Details</string>
+    <string name="goldbar_owner_name_show">Gold Bar Owner:</string>
+    <string name="gold_ingot_weigth_show">Gold Ingot Weight:</string>
+    <string name="sample_weight_show">Sample Weight:</string>
+    <string name="caliber_show">Caliber:</string>
+    <string name="net_gold_show">Net:</string>
+    <string name="price_gram_show">Price Gram:</string>
+    <string name="price_show">Price:</string>
+    <string name="sudaness_pound">S.P</string>
+    <string name="added">Add</string>
+    <string name="dateadded">Added Date :</string>
+    <string name="add_successfullyto_cailber_list">Successfully Added To The Expected Caliber List !</string>
+    <string name="addedlist">Has Been Add </string>
+
+
+    <!-- [9]Expexted Caliber Count -->
+    <string name="action_bar_expext_caliber_count">Expected Caliber Count</string>
+    <string name="goldbar_owner_name_caliber">Gold Bar Owner:</string>
+    <string name="gold_ingot_weigth_caliber">Gold Ingot Weight:</string>
+    <string name="sample_weight_caliber">Sample Weight:</string>
+    <string name="caliber_caliber">Caliber:</string>
+    <string name="net_caliber">Net:</string>
+    <string name="net_total">Net Total :</string>
+    <string name="price_gram_calibe">Price Gram:</string>
+    <string name="wiegth_total">Wiegth Total :</string>
+    <string name="expexted_caliber_res">Expexted Caliber :</string>
+    <string name="price_res">Price Total :</string>
+    <string name="expexted_caliber_sel">List Of Gold bars Added</string>
+    <string name="totalofgolgbars">Num Of Gold Bars :</string>
+    <string name="saveinwarehouse">Save In Warehouse</string>
+    <string name="recovery">Recovery</string>
+    <string name="savedinwarehouse_massage1">- Be Sure To Add All Customer Ingots Before Confirming The Save.</string>
+    <string name="savedinwarehouse_massage2">- These Ingots Will Be Stored In Warehouses For The Date of Casting.</string>
+    <string name="savedinwarehouse_massage3">- You Can Not Add Any Other Ingot To This Repository When Saving Is Confirmed.</string>
+    <string name="saved_confirm">Confirm</string>
+    <string name="cancle">Cancle</string>
+    <string name="savedinwarehouse_succssefull">Saved To Repositories Successfully !</string>
+    <string name="result">Result</string>
+
+
+    <!-- [10] WAREHOUSE ACTIVE -->
+    <string name="action_bar_warehouse">Warehouses</string>
+    <string name="search_DATE">Enter Date </string>
+    <string name="numofwarehouse">Num of Warehouses :</string>
+
+
+    <!-- [11] WAREHOUSE Details ACTIVE -->
+    <string name="action_bar_warehousedetails">Gold Bars Details</string>
+    <string name="dateofgoldbar">Date Of Added To Warehouse</string>
+    <string name="delete">Remove</string>
+    <string name="numofwarehouserecyclebin">Num of Warehouses Recycle Bin :</string>
+    <string name="ingot_remove">Do You Want To Remove</string>
+    <string name="Removed_successfully_warehouse_detail">Removed Successfully !</string>
+
+    <!--[11]OTP ACTIVE-->
+    <string name="verification_code">Verification</string>
+    <string name="title_verification_code">We Will Send You One Time On This Mobile Number</string>
+    <string name="enter_phone">Enter Phone Number</string>
+    <string name="send">Send</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="dont_recive">Dont Receive The Verification Code</string>
+    <string name="resend_code">Resend Verification Code ?</string>
+    <string name="verification">Verification</string>
+    <string name="verificationsuccessfully">Verified Successfully !</string>
+    <string name="verificationerror">Invalid Verification Code !</string>
+    <string name="sentotp">Verification Code Has Been Sent</string>
+    <string name="welcomeback">Welcome Back</string>
+    <string name="phonereg">Enter The Registered Phone Number</string>
+    <string name="newpass">New Password</string>
+    <string name="recovercount">The Account Has Been Successfully Restored !</string>
+
+    <!-- [11] WAREHOUSE Recycle Bin ACTIVE -->
+    <string name="action_bar_warehouseRecycleBin">Warehouse Recycle Bin</string>
+    <string name="recoveryToWarehousewarehouseRecycleBin">Recovery To Warehouses</string>
+    <string name="Recovered_successfully_warehousebin">Recovered Successfully !</string>
+    <!-- [14] About APP ACTIVE -->
+    <string name="action_bar_aboutapp">App About</string>
+
+    <!--Massage Toast Successful-->
+    <string name="user_remove_massage">Do You Want To Remove</string>
+    <string name="Done_remove_massage">Has Been Remove</string>
+    <string name="hidder_massage">Logout</string>
+    <string name="massage_content">- Do You Want To Logout ? </string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+
+    <string name="remove_goldbar_recyclebin"> Do You Want To Remove Ingot </string>
+    <string name="remove_goldbar_recyclebin_num1">- You Will Not Be Able To Return The Ingot To The Old Warehouses Again.</string>
+    <string name="remove_goldbar_recyclebin_num2">- The Ingot Wil Be Returned To The Home Page And You Can Be To Cast Again And Stored In A Warehouse.</string>
+    <string name="remove_goldbar_recyclebin_num3">- You Can Permanently Delete The Ingot From Home Page.</string>
+    <string name="remove_goldbar_recyclebin_sure">Confirm</string>
+    <string name="remove_goldbar_recyclebin_no">Cancle</string>
+</resources>

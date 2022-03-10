@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حيف-Haif</string>
+
+    <!-- Connection -->
+    <string name="connect_internet">الرجاء التحقق من إتصال الانترنت </string>
+    <string name="connect_internet_slow">هناك مشكلة في الإتصال بالانترنت </string>
+    <string name="try_agin">حاول مرة اخرى</string>
+    <string name="loading">جار التحميل...</string>
+    <string name="wait">أرجو الإنتظار ....</string>
+    <string name="ok">موافق</string>
+    <string name="error">خطأ</string>
+    <string name="servererror">حدث خطأ ما يرجى المحاولة مرة أخرى في وقت لاحق</string>
+
+    <!--[1] LOGIN ACTIVITY-->
+    <string name="login">تسجيل الدخول</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="phone_empty">أدخل رقم الهاتف</string>
+    <string name="password_empty">أدخل كلمة المرور</string>
+    <string name="password_check">الرجاء إدخال كلمة المرور من 8 خانات او أكثر !</string>
+    <string name="phone_valid">الرجاء إدخال رقم هاتف صالح !</string>
+    <string name="password_forget">هل نسيت كلمة السر؟</string>
+
+    <!--[2] MAIN ACTIVITY-->
+    <string name="search">ادخل الأسم , وزن السبيكة , العيار</string>
+    <string name="main">الرئيسية</string>
+    <string name="empty">لا توجد بيانات</string>
+    <string name="numofgoldbar">عدد السبائك :</string>
+
+
+    <!--[3] EDIT PROFILE ACTIVITY-->
+    <string name="action_bar_edit_profile">تعديل الملف الشخصي</string>
+    <string name="full_name">الأسم الرباعي</string>
+    <string name="phone_edit_profile">رقم الهاتف</string>
+    <string name="shop">المحل التجاري</string>
+    <string name="full_name_empty">أدخل الأسم الرباعي</string>
+    <string name="phone_edit_profile_empty">أدخل رقم الهاتف</string>
+    <string name="shop_edit_profile_empty">أدخل أسم المحل التجاري</string>
+    <string name="check_fullname_length">لا يمكن إدخال أكثر من 40 حرف !</string>
+    <string name="phone_edit_profile_valid">الرجاء إدخال رقم هاتف صالح !</string>
+    <string name="edit_profile_successfully">تم التعديل بنجاح !</string>
+    <string name="edit_profile_btn">تعديل</string>
+    <string name="edit_password">تعديل كلمة المرور</string>
+
+    <!--[4] CHECK OLD PASSWORD EDIT PROFILE ACTIVITY-->
+    <string name="action_bar_checkoldpassword_edit_profile">تعديل كلمة المرور</string>
+    <string name="oldpassword_edit_profile">كلمة المرور الحالية </string>
+    <string name="oldpassword_edit_profile_empty">أدخل كلمة المرور الحالية </string>
+    <string name="oldpassword_edit_profile_wrong">كلمة المرور المدخلة غير صحيحة !</string>
+
+    <!--[5] EDIT PASSWORD EDIT PROFILE ACTIVITY-->
+    <string name="newpassword">كلمة المرور الجديدة</string>
+    <string name="newpasswordconfirm">تأكيد كلمة المرور الجديدة</string>
+    <string name="newpassword_edit_profile_empty">أدخل كلمة المرور الجديدة</string>
+    <string name="password_confirm_edit_profile_empty">أدخل تأكيد كلمة المرور الجديدة</string>
+    <string name="newpassword_edit_profile_valid">الرجاء إدخال كلمة المرور من 8 خانات او أكثر !</string>
+    <string name="password_similarity_edit_profile">الرجاء التحقق من تشابه كلمة المرور !</string>
+
+    <!--[6] Menu-->
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="lang">اللغة</string>
+    <string name="warehouse">المستودعات</string>
+    <string name="warehouserecyclebin">سلة محذوفات المستودع</string>
+    <string name="share">مشاركة</string>
+    <string name="about">عن التطبيق</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--[7] ADD GOLDBAR ACTIITY   +  [6] WEIGHT EDIT ACTIVITY   -->
+    <string name="actionbar_goldbar_add">إضافة سبيكة جديدة</string>
+    <string name="actionbar_wiegth_edit">تعديل السبيكة</string>
+    <string name="owner_name">أسم مالك السبيكة</string>
+    <string name="gold_ingot_weigth">وزن السبيكة</string>
+    <string name="sample_weight">وزن العينة</string>
+    <string name="caliber">العيار</string>
+    <string name="price_gram">سعر الجرام</string>
+    <string name="optional">*إختياري</string>
+    <string name="gold_bar_owner_empty">أدخل أسم مالك السبيكة</string>
+    <string name="gold_ingot_weight_empty">أدخل وزن السبيكة</string>
+    <string name="gold_sample_weight_empty">أدخل وزن العينة</string>
+    <string name="caliber_empty">أدخل العيار</string>
+    <string name="price_gram_empty">أدخل سعر الجرام</string>
+    <string name="check_owner_name_length">الرجاء إدخال الأسم الرباعي (20حرف-40حرف) !</string>
+    <string name="wiegth_edit_btn">تعديل</string>
+    <string name="goldbar_add_btn">إضافة</string>
+    <string name="goldbar_add_successfully">تم الإضافة بنجاح !</string>
+    <string name="wiegth_edited_successfully">تم التعديل بنجاح !</string>
+
+    <!--[8]GOLDBARD DETAILS SHOW + [8] Custom Details Show-->
+    <string name="details">التفاصيل</string>
+    <string name="goldbar_owner_name_show">أسم مالك السبيكة:</string>
+    <string name="gold_ingot_weigth_show">وزن السبيكة:</string>
+    <string name="sample_weight_show">وزن العينة:</string>
+    <string name="caliber_show">العيار:</string>
+    <string name="net_gold_show">الصافي:</string>
+    <string name="price_gram_show">سعر الجرام:</string>
+    <string name="price_show">السعر:</string>
+    <string name="sudaness_pound">ج.س</string>
+    <string name="added">إضافة</string>
+    <string name="dateadded">تاريخ الإضافة :</string>
+    <string name="add_successfullyto_cailber_list">تم الإضافة بنجاح الى قائمة العيار المتوقع !</string>
+    <string name="addedlist">تمت إضافة </string>
+
+    <!-- [9]Expexted Caliber Count -->
+    <string name="action_bar_expext_caliber_count">حساب العيار المتوقع</string>
+    <string name="goldbar_owner_name_caliber">أسم مالك السبيكة:</string>
+    <string name="gold_ingot_weigth_caliber">وزن السبيكة:</string>
+    <string name="sample_weight_caliber">وزن العينة:</string>
+    <string name="caliber_caliber">العيار:</string>
+    <string name="net_caliber">الصافي:</string>
+    <string name="price_gram_calibe">سعر الجرام:</string>
+    <string name="net_total">مجموع الذهب الصافي :</string>
+    <string name="wiegth_total">مجموع كتلة الذهب :</string>
+    <string name="expexted_caliber_res">ناتج العيار المتوقع :</string>
+    <string name="price_res">مجموع السعر :</string>
+    <string name="expexted_caliber_sel">قائمة سبائك الذهب المضافة</string>
+    <string name="recovery">إسترجاع</string>
+    <string name="totalofgolgbars">عدد السبائك :</string>
+    <string name="saveinwarehouse">حفظ في المستودع</string>
+    <string name="savedinwarehouse_massage1">- تأكد من اضافة جميع السبائك الخاصة بالعميل قبل تأكيد الحفظ.</string>
+    <string name="savedinwarehouse_massage2">- سيتم تخزين هذه السبائك في المستودعات وفقا لتاريخ السبك.</string>
+    <string name="savedinwarehouse_massage3">- لا يمكنك إضافة اي سبيكة اخرى لنفس هذا المستودع عند تأكيد الحفظ.</string>
+    <string name="saved_confirm">تأكيد</string>
+    <string name="cancle">إلغاء</string>
+    <string name="savedinwarehouse_succssefull">تم الحفظ في المستودعات بنجاح !</string>
+    <string name="result">الناتج</string>
+
+    <!-- [10] WAREHOUSE ACTIVE -->
+    <string name="action_bar_warehouse">المستودعات</string>
+    <string name="numofwarehouse">عدد المستودعات :</string>
+    <string name="search_DATE">أدخل التاريخ </string>
+
+    <!-- [11] WAREHOUSE Details ACTIVE -->
+    <string name="action_bar_warehousedetails">تفاصيل السبائك</string>
+    <string name="dateofgoldbar">تاريخ الإضافة للمستودع</string>
+    <string name="numofwarehouserecyclebin">عدد سلة محذوفات المستودعات :</string>
+    <string name="delete">إزالة</string>
+    <string name="ingot_remove">هل تريد إزالة</string>
+    <string name="Removed_successfully_warehouse_detail">تمت الإزالة بنجاح !</string>
+
+    <!--[12]OTP ACTIVE-->
+    <string name="verification_code">رمز التحقق</string>
+    <string name="title_verification_code">سوف نرسل لك رمز تحقق صالح لمرة واحدة على هذا الهاتف</string>
+    <string name="enter_phone">أدخل رقم الهاتف</string>
+    <string name="send">إرسال</string>
+    <string name="enter_verification_code">أدخل رمز التحقق</string>
+    <string name="dont_recive">لم تتلقى رمز التحقق</string>
+    <string name="resend_code">إعادة إرسال رمز التحقق</string>
+    <string name="verification">تحقق</string>
+    <string name="sentotp">تم إرسال رمز التحقق</string>
+    <string name="verificationsuccessfully">تم التحقق ينجاح !</string>
+    <string name="verificationerror">رمز التحقق غير صحيح !</string>
+    <string name="welcomeback">مرحبا بعودتك</string>
+    <string name="phonereg">ادخل رقم الهاتف المسجل</string>
+    <string name="newpass">كلمة السر الجديدة</string>
+    <string name="recovercount">تم إسترجاع الحساب بنجاح !</string>
+
+    <!-- [13] WAREHOUSE Recycle Bin ACTIVE -->
+    <string name="action_bar_warehouseRecycleBin">سلة محذوفات المستودع</string>
+    <string name="recoveryToWarehousewarehouseRecycleBin">إسترجاع للمستودع</string>
+    <string name="Recovered_successfully_warehousebin">تم الإسترجاع بنجاح !</string>
+
+    <!-- [14] About APP ACTIVE -->
+    <string name="action_bar_aboutapp">عن التبطبيق</string>
+
+    <!--Massage Toast Successful-->
+    <string name="user_remove_massage">هل تريد إزالة</string>
+    <string name="Done_remove_massage">تم إزالة</string>
+    <string name="hidder_massage">تسجيل الخروج</string>
+    <string name="massage_content">- هل تريد تسجيل الخروج ؟ </string>
+    <string name="text_yes">نعم</string>
+    <string name="text_no">لا</string>
+
+    <string name="remove_goldbar_recyclebin">  هل تريد إزالة سبيكة </string>
+    <string name="remove_goldbar_recyclebin_num1">  - لن تتمكن من إعادة السبيكة للمستودع القديم مرة اخرى.</string>
+    <string name="remove_goldbar_recyclebin_num2">  - سيتم إعادة السبيكة للصفحة الرئيسية ويمكن سبيكها مجددا وستخزن في مستودع جديد.</string>
+    <string name="remove_goldbar_recyclebin_num3">  - يمكنك حذف السبيكة نهائيا من الصفحة الرئيسية .</string>
+    <string name="remove_goldbar_recyclebin_sure">تأكيد</string>
+    <string name="remove_goldbar_recyclebin_no">إلغاء</string>
+</resources>
